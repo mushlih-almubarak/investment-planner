@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# GitHub repository config files
+.github/CODEOWNERS
+.github/dependabot.yml
+.github/workflows/auto-assign-issues.yml
+.github/workflows/greetings.yml
