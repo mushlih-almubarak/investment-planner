@@ -1,0 +1,92 @@
+version: 2
+updates:
+
+  # Maintain dependencies for Bundler
+  - package-ecosystem: "bundler"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Cargo
+  - package-ecosystem: "cargo"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Composer
+  - package-ecosystem: "composer"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Docker
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Hex
+  - package-ecosystem: "mix"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for elm
+  - package-ecosystem: "elm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Git Submodule
+  - package-ecosystem: "gitsubmodule"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Go Modules
+  - package-ecosystem: "gomod"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Gradle
+  - package-ecosystem: "gradle"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Maven
+  - package-ecosystem: "maven"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for npm and yarn
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for NuGet
+  - package-ecosystem: "nuget"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for pip, pipenv, pip-compile, and poetry
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Maintain dependencies for Terraform
+  - package-ecosystem: "terraform"
+    directory: "/"
+    schedule:
+      interval: "daily"
