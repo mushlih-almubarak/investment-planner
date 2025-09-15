@@ -34,7 +34,7 @@
   "devDependencies": {
     "@babel/generator": "^7.27.0",
     "@babel/parser": "^7.27.0",
-    "@babel/traverse": "^7.27.0",
+    "@babel/traverse": "^7.28.4",
     "@babel/types": "^7.27.0",
     "@types/node": "^24.4.0",
     "@types/react": "^19.1.13",
