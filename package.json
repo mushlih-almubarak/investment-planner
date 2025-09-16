@@ -45,7 +45,7 @@
     "tailwindcss": "^4.1.13",
     "vite": "^7.1.5",
     "terser": "^5.39.0",
-    "eslint": "^8.57.1",
+    "eslint": "^9.35.0",
     "eslint-config-react-app": "^7.0.1"
   }
 }
