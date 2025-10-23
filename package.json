@@ -43,7 +43,7 @@
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
     "tailwindcss": "^4.1.13",
-    "vite": "^7.1.7",
+    "vite": "^7.1.12",
     "terser": "^5.44.0",
     "eslint": "^9.36.0",
     "eslint-config-react-app": "^7.0.1"
