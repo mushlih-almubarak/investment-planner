@@ -22,7 +22,7 @@
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "framer-motion": "^12.23.22",
-    "lucide-react": "^0.544.0",
+    "lucide-react": "^0.555.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-helmet-async": "^2.0.5",
