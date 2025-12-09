@@ -21,7 +21,7 @@
     "@radix-ui/react-slider": "^1.1.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
-    "framer-motion": "^12.23.22",
+    "framer-motion": "^12.23.25",
     "lucide-react": "^0.556.0",
     "react": "^19.1.1",
     "react-dom": "^19.2.1",
