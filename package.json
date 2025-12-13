@@ -24,7 +24,7 @@
     "framer-motion": "^12.23.26",
     "lucide-react": "^0.560.0",
     "react": "^19.2.1",
-    "react-dom": "^19.2.1",
+    "react-dom": "^19.2.3",
     "react-helmet-async": "^2.0.5",
     "react-canvas-confetti": "^2.0.7",
     "react-intersection-observer": "^10.0.0",
