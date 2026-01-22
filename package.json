@@ -36,7 +36,7 @@
     "@babel/parser": "^7.28.6",
     "@babel/traverse": "^7.28.4",
     "@babel/types": "^7.27.0",
-    "@types/node": "^25.0.3",
+    "@types/node": "^25.0.10",
     "@types/react": "^19.1.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.2",
